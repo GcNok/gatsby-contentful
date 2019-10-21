@@ -18,7 +18,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'エンジニアブログ ',
+    title: '技術ブログ ',
   },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [
